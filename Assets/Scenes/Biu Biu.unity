@@ -387,6 +387,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SugarDaddy_Grey (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 3734182732348949588, guid: c602f7711e2a8c7438b8268f9b1f7afc, type: 3}
+      propertyPath: m_TagString
+      value: Suga
+      objectReference: {fileID: 0}
     - target: {fileID: 7179283371148695996, guid: c602f7711e2a8c7438b8268f9b1f7afc, type: 3}
       propertyPath: m_LocalPosition.x
       value: 65.44806
@@ -397,7 +401,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7179283371148695996, guid: c602f7711e2a8c7438b8268f9b1f7afc, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.19548169
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7179283371148695996, guid: c602f7711e2a8c7438b8268f9b1f7afc, type: 3}
       propertyPath: m_LocalRotation.w
@@ -556,6 +560,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SugarMommy_Purple (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 2537621746026752367, guid: ce835c7fcf6bf4d4e952f31f7a43f9e5, type: 3}
+      propertyPath: m_TagString
+      value: Suga
+      objectReference: {fileID: 0}
     - target: {fileID: 2922511716898865469, guid: ce835c7fcf6bf4d4e952f31f7a43f9e5, type: 3}
       propertyPath: followSpeed
       value: 50
@@ -570,7 +578,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3730006499994643396, guid: ce835c7fcf6bf4d4e952f31f7a43f9e5, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.19548169
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3730006499994643396, guid: ce835c7fcf6bf4d4e952f31f7a43f9e5, type: 3}
       propertyPath: m_LocalRotation.w
@@ -744,6 +752,8 @@ GameObject:
   m_Component:
   - component: {fileID: 208867521}
   - component: {fileID: 208867520}
+  - component: {fileID: 208867523}
+  - component: {fileID: 208867522}
   m_Layer: 0
   m_Name: Competitor
   m_TagString: Untagged
@@ -794,9 +804,9 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 3
   m_Sprite: {fileID: -9095717837082945937, guid: 207ee8102dd4143d288186ef0be518ee, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.7235294, g: 1, b: 0.61698115, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -815,12 +825,72 @@ Transform:
   m_GameObject: {fileID: 208867519}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 7.071, y: -6.061, z: 0}
+  m_LocalPosition: {x: -14.2, y: -6.061, z: 0}
   m_LocalScale: {x: 1.8317493, y: 2.5840595, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &208867522
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 208867519}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: -0.011356831, y: 0.21334124}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 2}
+    newSize: {x: 1, y: 2}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 6.2242403, y: 2.4266822}
+  m_EdgeRadius: 0
+--- !u!114 &208867523
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 208867519}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bcd6029e96172694db5451776c54db0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  canCompete: 0
+  TargetClick: {fileID: 0}
 --- !u!1 &244785045
 GameObject:
   m_ObjectHideFlags: 0
@@ -925,7 +995,7 @@ Transform:
   m_GameObject: {fileID: 244785045}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 8.690001, y: -0.27000004, z: 0}
+  m_LocalPosition: {x: 9.05, y: -0.27000004, z: 0}
   m_LocalScale: {x: 0.46637908, y: 0.46637908, z: 0.46637908}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2186,7 +2256,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 134.86, y: -0.49000025, z: -10}
+  m_LocalPosition: {x: -18.779999, y: -0.49000025, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2724,6 +2794,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SugarDaddy_Blue (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1022186395701979431, guid: 7f579b52534b535449992aba929673ef, type: 3}
+      propertyPath: m_TagString
+      value: Suga
+      objectReference: {fileID: 0}
     - target: {fileID: 1639964994499807567, guid: 7f579b52534b535449992aba929673ef, type: 3}
       propertyPath: followSpeed
       value: 50
@@ -2738,7 +2812,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1983564158680283674, guid: 7f579b52534b535449992aba929673ef, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.19548169
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1983564158680283674, guid: 7f579b52534b535449992aba929673ef, type: 3}
       propertyPath: m_LocalRotation.w
@@ -2840,6 +2914,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SugarDaddy_Blue (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1022186395701979431, guid: 7f579b52534b535449992aba929673ef, type: 3}
+      propertyPath: m_TagString
+      value: Suga
+      objectReference: {fileID: 0}
     - target: {fileID: 1639964994499807567, guid: 7f579b52534b535449992aba929673ef, type: 3}
       propertyPath: followSpeed
       value: 50
@@ -2854,7 +2932,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1983564158680283674, guid: 7f579b52534b535449992aba929673ef, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.19548169
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1983564158680283674, guid: 7f579b52534b535449992aba929673ef, type: 3}
       propertyPath: m_LocalRotation.w
@@ -3028,7 +3106,7 @@ Transform:
   m_GameObject: {fileID: 1084679665}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 134.86, y: -0.49000025, z: -10}
+  m_LocalPosition: {x: -18.779999, y: -0.49000025, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -3047,6 +3125,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SugarDaddy_Grey (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 3734182732348949588, guid: c602f7711e2a8c7438b8268f9b1f7afc, type: 3}
+      propertyPath: m_TagString
+      value: Suga
+      objectReference: {fileID: 0}
     - target: {fileID: 7179283371148695996, guid: c602f7711e2a8c7438b8268f9b1f7afc, type: 3}
       propertyPath: m_LocalPosition.x
       value: 31.765564
@@ -3057,7 +3139,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7179283371148695996, guid: c602f7711e2a8c7438b8268f9b1f7afc, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.19548169
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7179283371148695996, guid: c602f7711e2a8c7438b8268f9b1f7afc, type: 3}
       propertyPath: m_LocalRotation.w
@@ -3195,6 +3277,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SugarMommy_Purple (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 2537621746026752367, guid: ce835c7fcf6bf4d4e952f31f7a43f9e5, type: 3}
+      propertyPath: m_TagString
+      value: Suga
+      objectReference: {fileID: 0}
     - target: {fileID: 2922511716898865469, guid: ce835c7fcf6bf4d4e952f31f7a43f9e5, type: 3}
       propertyPath: followSpeed
       value: 50
@@ -3209,7 +3295,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3730006499994643396, guid: ce835c7fcf6bf4d4e952f31f7a43f9e5, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.19548169
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3730006499994643396, guid: ce835c7fcf6bf4d4e952f31f7a43f9e5, type: 3}
       propertyPath: m_LocalRotation.w
@@ -3261,13 +3347,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: SugarDaddy_Blue (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1022186395701979431, guid: 7f579b52534b535449992aba929673ef, type: 3}
+      propertyPath: m_TagString
+      value: Suga
+      objectReference: {fileID: 0}
     - target: {fileID: 1639964994499807567, guid: 7f579b52534b535449992aba929673ef, type: 3}
       propertyPath: followSpeed
       value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 1983564158680283674, guid: 7f579b52534b535449992aba929673ef, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 7.1883316
+      value: 6.89
       objectReference: {fileID: 0}
     - target: {fileID: 1983564158680283674, guid: 7f579b52534b535449992aba929673ef, type: 3}
       propertyPath: m_LocalPosition.y
@@ -3275,7 +3365,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1983564158680283674, guid: 7f579b52534b535449992aba929673ef, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.19548169
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1983564158680283674, guid: 7f579b52534b535449992aba929673ef, type: 3}
       propertyPath: m_LocalRotation.w
@@ -3638,6 +3728,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SugarMommy_Purple (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 2537621746026752367, guid: ce835c7fcf6bf4d4e952f31f7a43f9e5, type: 3}
+      propertyPath: m_TagString
+      value: Suga
+      objectReference: {fileID: 0}
     - target: {fileID: 2922511716898865469, guid: ce835c7fcf6bf4d4e952f31f7a43f9e5, type: 3}
       propertyPath: followSpeed
       value: 50
@@ -3652,7 +3746,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3730006499994643396, guid: ce835c7fcf6bf4d4e952f31f7a43f9e5, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.19548169
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3730006499994643396, guid: ce835c7fcf6bf4d4e952f31f7a43f9e5, type: 3}
       propertyPath: m_LocalRotation.w
@@ -4361,6 +4455,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SugarDaddy_Grey (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 3734182732348949588, guid: c602f7711e2a8c7438b8268f9b1f7afc, type: 3}
+      propertyPath: m_TagString
+      value: Suga
+      objectReference: {fileID: 0}
     - target: {fileID: 7179283371148695996, guid: c602f7711e2a8c7438b8268f9b1f7afc, type: 3}
       propertyPath: m_LocalPosition.x
       value: 79.82045
@@ -4371,7 +4469,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7179283371148695996, guid: c602f7711e2a8c7438b8268f9b1f7afc, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.19548169
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7179283371148695996, guid: c602f7711e2a8c7438b8268f9b1f7afc, type: 3}
       propertyPath: m_LocalRotation.w
@@ -4497,6 +4595,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SugarMommy_Purple (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 2537621746026752367, guid: ce835c7fcf6bf4d4e952f31f7a43f9e5, type: 3}
+      propertyPath: m_TagString
+      value: Suga
+      objectReference: {fileID: 0}
     - target: {fileID: 2922511716898865469, guid: ce835c7fcf6bf4d4e952f31f7a43f9e5, type: 3}
       propertyPath: followSpeed
       value: 50
@@ -4511,7 +4613,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3730006499994643396, guid: ce835c7fcf6bf4d4e952f31f7a43f9e5, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.19548169
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3730006499994643396, guid: ce835c7fcf6bf4d4e952f31f7a43f9e5, type: 3}
       propertyPath: m_LocalRotation.w
@@ -4660,6 +4762,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SugarMommy_Purple (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 2537621746026752367, guid: ce835c7fcf6bf4d4e952f31f7a43f9e5, type: 3}
+      propertyPath: m_TagString
+      value: Suga
+      objectReference: {fileID: 0}
     - target: {fileID: 2922511716898865469, guid: ce835c7fcf6bf4d4e952f31f7a43f9e5, type: 3}
       propertyPath: followSpeed
       value: 50
@@ -4674,7 +4780,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3730006499994643396, guid: ce835c7fcf6bf4d4e952f31f7a43f9e5, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.19548169
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3730006499994643396, guid: ce835c7fcf6bf4d4e952f31f7a43f9e5, type: 3}
       propertyPath: m_LocalRotation.w
@@ -5169,7 +5275,7 @@ Transform:
   m_GameObject: {fileID: 2072035524}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 134.74, y: -7.31, z: 0}
+  m_LocalPosition: {x: -18.9, y: -7.31, z: 0}
   m_LocalScale: {x: 1.33, y: 4.172189, z: 1.891892}
   m_ConstrainProportionsScale: 1
   m_Children:
