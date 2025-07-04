@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: d43500c96c8c98440b506e6ca28ede66
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2078820228283225658
+    second: NFTS_Long_PinkWhite_RGB_0
+  - first:
+      213: -238499365811143895
+    second: NFTS_Long_PinkWhite_RGB_1
+  - first:
+      213: -2184462889622566696
+    second: NFTS_Long_PinkWhite_RGB_2
+  - first:
+      213: 5102456991977182334
+    second: NFTS_Long_PinkWhite_RGB_3
+  - first:
+      213: 8939364426778491504
+    second: NFTS_Long_PinkWhite_RGB_4
+  - first:
+      213: -818754093059207202
+    second: NFTS_Long_PinkWhite_RGB_5
+  - first:
+      213: 903301265098625084
+    second: NFTS_Long_PinkWhite_RGB_6
+  - first:
+      213: -559987534865909622
+    second: NFTS_Long_PinkWhite_RGB_7
+  - first:
+      213: 7903625578372726043
+    second: NFTS_Long_PinkWhite_RGB_8
+  - first:
+      213: 7080512851175251067
+    second: NFTS_Long_PinkWhite_RGB_9
+  - first:
+      213: 305895318412645488
+    second: NFTS_Long_PinkWhite_RGB_10
+  - first:
+      213: -1930648580843266002
+    second: NFTS_Long_PinkWhite_RGB_11
+  - first:
+      213: -5759644115388458063
+    second: NFTS_Long_PinkWhite_RGB_12
+  - first:
+      213: 695279615060169211
+    second: NFTS_Long_PinkWhite_RGB_13
+  - first:
+      213: -455378139222215265
+    second: NFTS_Long_PinkWhite_RGB_14
+  - first:
+      213: 7961291141700100183
+    second: NFTS_Long_PinkWhite_RGB_15
+  - first:
+      213: 2626793718020897600
+    second: NFTS_Long_PinkWhite_RGB_16
+  - first:
+      213: 8080359603449162982
+    second: NFTS_Long_PinkWhite_RGB_17
+  - first:
+      213: -169430344708663202
+    second: NFTS_Long_PinkWhite_RGB_18
+  - first:
+      213: -1175038763309638751
+    second: NFTS_Long_PinkWhite_RGB_19
+  - first:
+      213: -6279835403115035344
+    second: NFTS_Long_PinkWhite_RGB_20
+  - first:
+      213: 1274256828446000743
+    second: NFTS_Long_PinkWhite_RGB_21
+  - first:
+      213: -7222693143889142311
+    second: NFTS_Long_PinkWhite_RGB_22
+  - first:
+      213: 7172615442295651407
+    second: NFTS_Long_PinkWhite_RGB_23
+  - first:
+      213: -2416912656246842658
+    second: NFTS_Long_PinkWhite_RGB_24
+  - first:
+      213: 4219558626320062312
+    second: NFTS_Long_PinkWhite_RGB_25
+  - first:
+      213: -5221916646523659152
+    second: NFTS_Long_PinkWhite_RGB_26
+  - first:
+      213: -4041713006745260187
+    second: NFTS_Long_PinkWhite_RGB_27
+  - first:
+      213: 7058237355480801700
+    second: NFTS_Long_PinkWhite_RGB_28
+  - first:
+      213: 8384263759299164290
+    second: NFTS_Long_PinkWhite_RGB_29
+  - first:
+      213: 5258804345118267925
+    second: NFTS_Long_PinkWhite_RGB_30
+  - first:
+      213: -5206872807594464703
+    second: NFTS_Long_PinkWhite_RGB_31
+  - first:
+      213: 8072268362635603404
+    second: NFTS_Long_PinkWhite_RGB_32
+  - first:
+      213: 7101147512398836365
+    second: NFTS_Long_PinkWhite_RGB_33
+  - first:
+      213: 5018213360295603666
+    second: NFTS_Long_PinkWhite_RGB_34
+  - first:
+      213: -474559042849991609
+    second: NFTS_Long_PinkWhite_RGB_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NFTS_Long_PinkWhite_RGB_0
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 503
+        width: 221
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c92845340c8623e0800000000000000
+      internalID: -2078820228283225658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS_Long_PinkWhite_RGB_1
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 503
+        width: 188
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bbba5271ea0bcf0800000000000000
+      internalID: -238499365811143895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS_Long_PinkWhite_RGB_2
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 503
+        width: 205
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8060f539a3fa1e0800000000000000
+      internalID: -2184462889622566696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS_Long_PinkWhite_RGB_3
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 499
+        width: 204
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e741288a9919fc640800000000000000
+      internalID: 5102456991977182334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS_Long_PinkWhite_RGB_4
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 239
+        width: 6
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a35e755900f0c70800000000000000
+      internalID: 8939364426778491504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS_Long_PinkWhite_RGB_5
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 640
+        width: 93
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf0fc48d7333a4f0800000000000000
+      internalID: -818754093059207202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS_Long_PinkWhite_RGB_6
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 640
+        width: 110
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c305d57f6bb298c00800000000000000
+      internalID: 903301265098625084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS_Long_PinkWhite_RGB_7
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 640
+        width: 86
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88bba1dd468a38f0800000000000000
+      internalID: -559987534865909622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS_Long_PinkWhite_RGB_8
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 640
+        width: 29
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1df89c96915fad60800000000000000
+      internalID: 7903625578372726043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS_Long_PinkWhite_RGB_9
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 638
+        width: 105
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c93e98ce8034260800000000000000
+      internalID: 7080512851175251067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS_Long_PinkWhite_RGB_10
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 640
+        width: 92
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074d070eb22ce3400800000000000000
+      internalID: 305895318412645488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS_Long_PinkWhite_RGB_11
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 640
+        width: 109
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20a9b04855f435e0800000000000000
+      internalID: -1930648580843266002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS_Long_PinkWhite_RGB_12
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 640
+        width: 75
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb1a956132a110b0800000000000000
+      internalID: -5759644115388458063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS_Long_PinkWhite_RGB_13
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 504
+        width: 79
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf15b3b402126a900800000000000000
+      internalID: 695279615060169211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS_Long_PinkWhite_RGB_14
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 504
+        width: 29
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f957e2dbefb2ea9f0800000000000000
+      internalID: -455378139222215265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS_Long_PinkWhite_RGB_15
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 504
+        width: 76
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750af76dc103c7e60800000000000000
+      internalID: 7961291141700100183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS_Long_PinkWhite_RGB_16
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 504
+        width: 104
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bfcdc18fe347420800000000000000
+      internalID: 2626793718020897600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS_Long_PinkWhite_RGB_17
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 504
+        width: 109
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ece00d6f34332070800000000000000
+      internalID: 8080359603449162982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS_Long_PinkWhite_RGB_18
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 504
+        width: 93
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58d779cfff06adf0800000000000000
+      internalID: -169430344708663202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS_Long_PinkWhite_RGB_19
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 504
+        width: 93
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab5d9b687c61bfe0800000000000000
+      internalID: -1175038763309638751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS_Long_PinkWhite_RGB_20
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 369
+        width: 86
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035086d09fa89d8a0800000000000000
+      internalID: -6279835403115035344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS_Long_PinkWhite_RGB_21
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 369
+        width: 80
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766c32c85d11fa110800000000000000
+      internalID: 1274256828446000743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS_Long_PinkWhite_RGB_22
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 369
+        width: 75
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd96d46ad6d3cb90800000000000000
+      internalID: -7222693143889142311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS_Long_PinkWhite_RGB_23
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 369
+        width: 80
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c738c1ebf3a8360800000000000000
+      internalID: 7172615442295651407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS_Long_PinkWhite_RGB_24
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 368
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edad2479eb6657ed0800000000000000
+      internalID: -2416912656246842658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS_Long_PinkWhite_RGB_25
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 369
+        width: 29
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8671eb6e632ee8a30800000000000000
+      internalID: 4219558626320062312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS_Long_PinkWhite_RGB_26
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 367
+        width: 86
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c12451a760887b0800000000000000
+      internalID: -5221916646523659152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS_Long_PinkWhite_RGB_27
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 369
+        width: 29
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f6fdc2f63f8e7c0800000000000000
+      internalID: -4041713006745260187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS_Long_PinkWhite_RGB_28
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 367
+        width: 105
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a163d98a75e3f160800000000000000
+      internalID: 7058237355480801700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS_Long_PinkWhite_RGB_29
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 369
+        width: 93
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2883534a773ea5470800000000000000
+      internalID: 8384263759299164290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS_Long_PinkWhite_RGB_30
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 231
+        width: 86
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a1e0680b60bf840800000000000000
+      internalID: 5258804345118267925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS_Long_PinkWhite_RGB_31
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 231
+        width: 94
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ae0b8c4c87db7b0800000000000000
+      internalID: -5206872807594464703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS_Long_PinkWhite_RGB_32
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 233
+        width: 90
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccde48e9e45760070800000000000000
+      internalID: 8072268362635603404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS_Long_PinkWhite_RGB_33
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 231
+        width: 106
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d827e2ef9085c8260800000000000000
+      internalID: 7101147512398836365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS_Long_PinkWhite_RGB_34
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 231
+        width: 105
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dde98ba67644a540800000000000000
+      internalID: 5018213360295603666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS_Long_PinkWhite_RGB_35
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 233
+        width: 76
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7441af990170a69f0800000000000000
+      internalID: -474559042849991609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NFTS_Long_PinkWhite_RGB_0: -2078820228283225658
+      NFTS_Long_PinkWhite_RGB_1: -238499365811143895
+      NFTS_Long_PinkWhite_RGB_10: 305895318412645488
+      NFTS_Long_PinkWhite_RGB_11: -1930648580843266002
+      NFTS_Long_PinkWhite_RGB_12: -5759644115388458063
+      NFTS_Long_PinkWhite_RGB_13: 695279615060169211
+      NFTS_Long_PinkWhite_RGB_14: -455378139222215265
+      NFTS_Long_PinkWhite_RGB_15: 7961291141700100183
+      NFTS_Long_PinkWhite_RGB_16: 2626793718020897600
+      NFTS_Long_PinkWhite_RGB_17: 8080359603449162982
+      NFTS_Long_PinkWhite_RGB_18: -169430344708663202
+      NFTS_Long_PinkWhite_RGB_19: -1175038763309638751
+      NFTS_Long_PinkWhite_RGB_2: -2184462889622566696
+      NFTS_Long_PinkWhite_RGB_20: -6279835403115035344
+      NFTS_Long_PinkWhite_RGB_21: 1274256828446000743
+      NFTS_Long_PinkWhite_RGB_22: -7222693143889142311
+      NFTS_Long_PinkWhite_RGB_23: 7172615442295651407
+      NFTS_Long_PinkWhite_RGB_24: -2416912656246842658
+      NFTS_Long_PinkWhite_RGB_25: 4219558626320062312
+      NFTS_Long_PinkWhite_RGB_26: -5221916646523659152
+      NFTS_Long_PinkWhite_RGB_27: -4041713006745260187
+      NFTS_Long_PinkWhite_RGB_28: 7058237355480801700
+      NFTS_Long_PinkWhite_RGB_29: 8384263759299164290
+      NFTS_Long_PinkWhite_RGB_3: 5102456991977182334
+      NFTS_Long_PinkWhite_RGB_30: 5258804345118267925
+      NFTS_Long_PinkWhite_RGB_31: -5206872807594464703
+      NFTS_Long_PinkWhite_RGB_32: 8072268362635603404
+      NFTS_Long_PinkWhite_RGB_33: 7101147512398836365
+      NFTS_Long_PinkWhite_RGB_34: 5018213360295603666
+      NFTS_Long_PinkWhite_RGB_35: -474559042849991609
+      NFTS_Long_PinkWhite_RGB_4: 8939364426778491504
+      NFTS_Long_PinkWhite_RGB_5: -818754093059207202
+      NFTS_Long_PinkWhite_RGB_6: 903301265098625084
+      NFTS_Long_PinkWhite_RGB_7: -559987534865909622
+      NFTS_Long_PinkWhite_RGB_8: 7903625578372726043
+      NFTS_Long_PinkWhite_RGB_9: 7080512851175251067
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

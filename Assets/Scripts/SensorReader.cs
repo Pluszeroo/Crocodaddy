@@ -9,7 +9,7 @@ public class SensorReader : MonoBehaviour
     //public Rigidbody2D rb;
     //public float tiltmoveSpeed = 5f;
     //float acceleration = 0.5f;
-    public float moveSpeed = 5f;
+    public float moveSpeed = 12f;
 
     private Movement movement;
     //private Vector3 defaultDirection = Vector3.right;

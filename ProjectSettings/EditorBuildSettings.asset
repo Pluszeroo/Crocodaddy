@@ -6,8 +6,26 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 654cedc7086f523449cd65f2bead369d
+  - enabled: 1
     path: Assets/Scenes/Biu Biu.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/BadEnding.unity
+    guid: 25291aeff8bc15a4b8aa83ac8445af13
+  - enabled: 1
+    path: Assets/Scenes/GoodEnding.unity
+    guid: cd501a9484998b44d95e2f9f47fd198d
+  - enabled: 1
+    path: Assets/Scenes/NormalEnding.unity
+    guid: cc092a02abaf9da418c5378dd93e2939
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 415f9d75c17c26a4d8765804b6de9acb
+  - enabled: 1
+    path: Assets/Scenes/Album.unity
+    guid: 50420c04cc94d474a826f905ac73af64
   m_configObjects:
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 3cacfea3de99bc44cab07dde07812700, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

@@ -4,11 +4,13 @@ public class Collectible : MonoBehaviour
 {
     [SerializeField]
     private ScoreManager scoreManager;
+    [SerializeField]
+    private int score;
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player"))
         {
-            ScoreManager.Instance.AddScore(1);
+            ScoreManager.Instance.AddScore(score);
             Destroy(gameObject);
         }
     }

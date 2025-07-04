@@ -30,6 +30,26 @@ AnimationClip:
       value: {fileID: 21300000, guid: 0c069bd6df0f3974ea10fb46f37b9428, type: 3}
     - time: 0.33333334
       value: {fileID: 21300000, guid: 84d4bc1a1acc95e4cb8b383720265de7, type: 3}
+    - time: 0.41666666
+      value: {fileID: 21300000, guid: 3165d4552aa44d64fb3b57486ccf355f, type: 3}
+    - time: 0.5
+      value: {fileID: 21300000, guid: fcc633f8c3383ec48ade33bd1ed2ad1f, type: 3}
+    - time: 0.5833333
+      value: {fileID: 21300000, guid: 99408b1ec220a0340872b496146c598d, type: 3}
+    - time: 0.6666667
+      value: {fileID: 21300000, guid: 0c069bd6df0f3974ea10fb46f37b9428, type: 3}
+    - time: 0.75
+      value: {fileID: 21300000, guid: 84d4bc1a1acc95e4cb8b383720265de7, type: 3}
+    - time: 0.8333333
+      value: {fileID: 21300000, guid: 3165d4552aa44d64fb3b57486ccf355f, type: 3}
+    - time: 0.9166667
+      value: {fileID: 21300000, guid: fcc633f8c3383ec48ade33bd1ed2ad1f, type: 3}
+    - time: 1
+      value: {fileID: 21300000, guid: 99408b1ec220a0340872b496146c598d, type: 3}
+    - time: 1.0833334
+      value: {fileID: 21300000, guid: 0c069bd6df0f3974ea10fb46f37b9428, type: 3}
+    - time: 1.1666666
+      value: {fileID: 21300000, guid: 84d4bc1a1acc95e4cb8b383720265de7, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -57,12 +77,22 @@ AnimationClip:
     - {fileID: 21300000, guid: 99408b1ec220a0340872b496146c598d, type: 3}
     - {fileID: 21300000, guid: 0c069bd6df0f3974ea10fb46f37b9428, type: 3}
     - {fileID: 21300000, guid: 84d4bc1a1acc95e4cb8b383720265de7, type: 3}
+    - {fileID: 21300000, guid: 3165d4552aa44d64fb3b57486ccf355f, type: 3}
+    - {fileID: 21300000, guid: fcc633f8c3383ec48ade33bd1ed2ad1f, type: 3}
+    - {fileID: 21300000, guid: 99408b1ec220a0340872b496146c598d, type: 3}
+    - {fileID: 21300000, guid: 0c069bd6df0f3974ea10fb46f37b9428, type: 3}
+    - {fileID: 21300000, guid: 84d4bc1a1acc95e4cb8b383720265de7, type: 3}
+    - {fileID: 21300000, guid: 3165d4552aa44d64fb3b57486ccf355f, type: 3}
+    - {fileID: 21300000, guid: fcc633f8c3383ec48ade33bd1ed2ad1f, type: 3}
+    - {fileID: 21300000, guid: 99408b1ec220a0340872b496146c598d, type: 3}
+    - {fileID: 21300000, guid: 0c069bd6df0f3974ea10fb46f37b9428, type: 3}
+    - {fileID: 21300000, guid: 84d4bc1a1acc95e4cb8b383720265de7, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.4166667
+    m_StopTime: 1.25
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -81,4 +111,11 @@ AnimationClip:
   m_EulerEditorCurves: []
   m_HasGenericRootTransform: 0
   m_HasMotionFloatCurves: 0
-  m_Events: []
+  m_Events:
+  - time: 0
+    functionName: FootSteps
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0

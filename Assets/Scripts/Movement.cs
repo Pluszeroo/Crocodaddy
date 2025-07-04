@@ -85,7 +85,6 @@ public class Movement : MonoBehaviour
 
         directionalSpeed = isGoingRight ? 1 : -1;
 
-        //audioManager.PlaySFX(audioManager.footStep);
         float translationSpeed = (moveSpeed + boostSpeed) * directionalSpeed;
 
 
@@ -97,7 +96,7 @@ public class Movement : MonoBehaviour
             //move
             //Debug.Log("Moving");
             transform.Translate(new Vector2(translationSpeed * Time.deltaTime, 0));
-
+            //audioManager.PlaySFX(audioManager.footStep);
 
         }
         else if (!canWalk)
@@ -132,6 +131,10 @@ public class Movement : MonoBehaviour
             sprite.transform.eulerAngles = new Vector3(0, 180, 0);
             isGoingRight = false;
         }
+    }
+    public void FootSteps()
+    {
+        audioManager.PlaySFX(audioManager.footStep);
     }
 
     //void LookAtTarget()

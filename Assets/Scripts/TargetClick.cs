@@ -69,7 +69,6 @@ public class TargetClick : MonoBehaviour
 
         if (beingClicked && playerDistance > playerClosenessNeeded)
         {
-            audioManager.PlaySFX(audioManager.shaking);
             movement.moving = true;
             animator.SetBool("Attacked", false);
             animator.SetBool("Captured", false);
@@ -117,7 +116,6 @@ public class TargetClick : MonoBehaviour
 
         if (beingClicked && playerDistance > playerClosenessNeeded)
         {
-            audioManager.PlaySFX(audioManager.shaking);
             movement.moving = true;
             animator.SetBool("Attacked", false);
             animator.SetBool("Captured", false);
@@ -127,11 +125,18 @@ public class TargetClick : MonoBehaviour
         {
             movement.moving = false;
             //Fill the drink
-            audioManager.PlaySFX(audioManager.shaking);
             audioManager.PlaySFX(audioManager.chime);
             spriteRenderer.flipX = !playerMovement.isGoingRight;
 
-            audioManager.PlaySFX(audioManager.liquidPour);
+            audioManager.PlaySFX(audioManager.shaking);
+            StartCoroutine(PlayliquidPourDelayed(0.5f));
+
+            IEnumerator PlayliquidPourDelayed(float delay)
+            {
+                yield return new WaitForSeconds(delay);
+                audioManager.PlaySFX(audioManager.babyCry);
+            }
+
             drinkLiquidImage.fillAmount += Time.deltaTime * fillSpeed;
 
             if (drinkLiquidImage.fillAmount >= 1f && !glassDroped)
